@@ -71,7 +71,7 @@ Based on the analysis, the following actions are recommended to improve loan per
 
 (https://github.com/Olubukola-Olanrewaju/Loan_Performance_Analysis/blob/main/Customer_%20and_%20Income%20Insights.png)
 (https://github.com/Olubukola-Olanrewaju/Loan_Performance_Analysis/blob/main/Loan%20Risk_and_Behaviour%20Analysis.png)
-
+(https://github.com/Olubukola-Olanrewaju/Loan_Performance_Analysis/blob/main/Loan_overview.png)
 ## Conclusion
 
 This project demonstrates how data can be used to identify risk patterns, improve loan performance, and support smarter lending decisions. The insights generated can help financial institutions reduce losses and enhance overall portfolio performance.

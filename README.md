@@ -70,7 +70,7 @@ Based on the analysis, the following actions are recommended to improve loan per
 ## Screenshots
 
 (https://github.com/Olubukola-Olanrewaju/Loan_Performance_Analysis/blob/main/Customer_%20and_%20Income%20Insights.png)
-()
+(https://github.com/Olubukola-Olanrewaju/Loan_Performance_Analysis/blob/main/Loan%20Risk_and_Behaviour%20Analysis.png)
 
 ## Conclusion
 

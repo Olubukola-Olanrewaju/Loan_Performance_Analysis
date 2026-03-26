@@ -75,7 +75,6 @@ Based on the analysis, the following actions are recommended to improve loan per
 
 ## Power bI file
 (https://drive.google.com/file/d/1T5CdrolppX-be7WbCmS7xxXPFrDQLRnq/view?usp=sharing)
-
 ## Conclusion
 
 This project demonstrates how data can be used to identify risk patterns, improve loan performance, and support smarter lending decisions. The insights generated can help financial institutions reduce losses and enhance overall portfolio performance.

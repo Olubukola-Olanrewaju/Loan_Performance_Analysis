@@ -69,6 +69,7 @@ Based on the analysis, the following actions are recommended to improve loan per
 - Continuously monitor key risk metrics for better decision making
 ## Screenshots
 
+(https://github.com/Olubukola-Olanrewaju/Loan_Performance_Analysis/blob/main/Customer_%20and_%20Income%20Insights.png)
 ()
 
 ## Conclusion

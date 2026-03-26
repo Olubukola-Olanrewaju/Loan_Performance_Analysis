@@ -50,7 +50,7 @@ Analysis of repayment trends and customer performance
 
 ## Page 4
 
-## Customer Segmentation
+ Customer Segmentation
 Insights into borrower categories and loan distribution
 
 ## Key Insights
